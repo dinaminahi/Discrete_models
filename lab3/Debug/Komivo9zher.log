@@ -1,0 +1,3 @@
+﻿  Komivo9zher.cpp
+E:\Model\Komivo9zher\Komivo9zher.cpp(7,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Komivo9zher.vcxproj -> E:\Model\Komivo9zher\Debug\Komivo9zher.exe
